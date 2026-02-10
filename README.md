@@ -1,27 +1,14 @@
+<!-- Banner no topo -->
 <p align="center">
-  <img src="https://github.com/duskhtml/duskhtml/raw/main/assets/2a42bd5da3d764c330984cc16af88a39.jpg" 
-       alt="Catblack Banner" 
+  <img src="https://github.com/duskhtml/duskhtml/raw/main/Catblack.png" 
+       alt="Catblack - Meus gatinhos" 
        width="100%" 
-       style="border-radius: 12px; margin-bottom: 50px;" />
+       style="border-radius: 12px; margin-bottom: 60px;" />
 </p>
 
+<br><br><br>
 
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github.com/duskhtml/duskhtml/raw/main/banner-Catblack.png" alt="Banner de Gatos" width="100%" />
-</p>
-
-<br
-
-
+<!-- Stack separada -->
 <h3 align="center">Minha Stack Fullstack</h3>
 
 <div align="center">
@@ -41,7 +28,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   &nbsp;•&nbsp;
-  <!-- DevOps / Outros -->
+  <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
