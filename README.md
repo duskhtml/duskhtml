@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/duskhtml/duskhtml/raw/main/banner-catblack.png" alt="Banner de Gatos" width="100%" />
+</p>
+
+<br
+
+
 <h3 align="center">Minha Stack Fullstack</h3>
 
 <div align="center">
