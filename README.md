@@ -1,4 +1,21 @@
 <p align="center">
+  <img src="https://github.com/duskhtml/duskhtml/raw/main/assets/2a42bd5da3d764c330984cc16af88a39.jpg" 
+       alt="Catblack Banner" 
+       width="100%" 
+       style="border-radius: 12px; margin-bottom: 50px;" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
   <img src="https://github.com/duskhtml/duskhtml/raw/main/banner-Catblack.png" alt="Banner de Gatos" width="100%" />
 </p>
 
