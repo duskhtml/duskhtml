@@ -1,6 +1,6 @@
 <!-- Banner no topo - ajuste o nome se mudar o arquivo -->
 <p align="center">
-  <img src="https://github.com/duskhtml/duskhtml/raw/main/Catblack.png" 
+  <img src="https://github.com/duskhtml/duskhtml/raw/main/Catblack.jpg" 
        alt="Catblack - Meus gatinhos fofos" 
        width="100%" 
        style="border-radius: 16px; margin-bottom: 60px;" />
